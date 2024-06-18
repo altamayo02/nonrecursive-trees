@@ -1,2 +1,2 @@
-# SEC-Java
-Java contents from the degree Systems Engineering and Computation at University of Caldas.
+# nonrecursive-trees
+Non-recursive algorithm in Java implementing trees
